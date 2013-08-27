@@ -355,7 +355,7 @@
   <action name="fileNewAction">
    <property name="icon">
     <iconset>
-     <normaloff>image1</normaloff>image1</iconset>
+     <normaloff>:/images/new.png</normaloff>:/images/new.png</iconset>
    </property>
    <property name="text">
     <string>&amp;New</string>
@@ -373,7 +373,7 @@
   <action name="fileOpenAction">
    <property name="icon">
     <iconset>
-     <normaloff>image2</normaloff>image2</iconset>
+     <normaloff>:/images/open.png</normaloff>:/images/open.png</iconset>
    </property>
    <property name="text">
     <string>&amp;Open...</string>
@@ -391,7 +391,7 @@
   <action name="fileSaveAction">
    <property name="icon">
     <iconset>
-     <normaloff>image3</normaloff>image3</iconset>
+     <normaloff>:/images/save.png</normaloff>:/images/save.png</iconset>
    </property>
    <property name="text">
     <string>&amp;Save</string>
@@ -423,7 +423,7 @@
   <action name="filePrintAction">
    <property name="icon">
     <iconset>
-     <normaloff>image4</normaloff>image4</iconset>
+     <normaloff>:/images/print.png</normaloff>:/images/print.png</iconset>
    </property>
    <property name="text">
     <string>&amp;Print...</string>
